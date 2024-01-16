@@ -1,7 +1,6 @@
-# MiniMap and SplitScreen
+# Split-Screen
 
-Mini-map and Split-screen assignment, Game Development course.
+Split-Screen assignment, Game Development course.
 
-Links to the games in itch.io:
+Link to the game in itch.io:
 [Split-Screen](https://parkpulse.itch.io/splitscreentest)
-[MiniMap](https://parkpulse.itch.io/camerasplit)
